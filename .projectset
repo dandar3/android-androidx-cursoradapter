@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-annotation/tags/1.0.0,androidx-annotation,d028f992260e001a1b1dfe4aa2406e54;https://github.com/dandar3/android-androidx-annotation/;https://github.com/dandar3/android-androidx-annotation/;branches;tags;trunk;true;e8e6a675-c408-9bdb-a2e5-ce57b7db7bff;https://github.com/dandar3/android-androidx-annotation;;false;&lt;https://github.com:443&gt; GitHub;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-cursoradapter/tags/1.0.0,androidx-cursoradapter,d0efabf52b0e001a1b1dfe4aa2406e54;https://github.com/dandar3/android-androidx-cursoradapter;https://github.com/dandar3/android-androidx-cursoradapter;branches;tags;trunk;true;f1f0cbe9-0a7f-ea06-b4e5-ce57b7db7bff;https://github.com/dandar3/android-androidx-cursoradapter;;false;;;0"/>
+</provider>
+</psf>
