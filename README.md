@@ -1,7 +1,7 @@
 ## androidx-cursoradapter
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0.jar
+https://maven.google.com/androidx/cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0.aar
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
