@@ -4,8 +4,9 @@ Eclipse library project based on:<br/>
 https://maven.google.com/androidx/cursoradapter/cursoradapter/1.0.0/cursoradapter-1.0.0.jar
 
 **Requires:**
-- `Android 9.0 (API 28) SDK Platform`
-- [androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/1.0.0)
+- `Android 9 (API 28) SDK Platform`
+- [dandar3/android-androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/1.0.0)
+
 
 **References:**
 - https://developer.android.com/jetpack
